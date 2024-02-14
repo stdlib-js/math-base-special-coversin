@@ -63,6 +63,11 @@ The [coversed sine][coversed-sine] is defined as
 ## Usage
 
 ```javascript
+import coversin from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-coversin@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-special-coversin/tags). For example,
+
+```javascript
 import coversin from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-coversin@v0.2.0-deno/mod.js';
 ```
 
@@ -94,7 +99,7 @@ v = coversin( -3.141592653589793/6.0 );
 ```javascript
 import linspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-linspace@deno/mod.js';
 import TWO_PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-two-pi@deno/mod.js';
-import coversin from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-coversin@v0.2.0-deno/mod.js';
+import coversin from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-coversin@deno/mod.js';
 
 var x = linspace( 0.0, TWO_PI, 100 );
 
