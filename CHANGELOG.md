@@ -23,7 +23,7 @@
 <details>
 
 -   [`11c882d`](https://github.com/stdlib-js/stdlib/commit/11c882dcc261abe6a898a3061b45af7f0d4a41cd) - **chore:** update package meta data [(##2379)](#2379) _(by stdlib-bot, Athan Reines)_
--   [`9df1610`](https://github.com/stdlib-js/stdlib/commit/9df16105aa2d89808d3395c610334ca9cce35b3c) - **docs:** remove long comment [(##2634)](#2634) _(by Gunj Joshi)_
+-   [`9df1610`](https://github.com/stdlib-js/stdlib/commit/9df16105aa2d89808d3395c610334ca9cce35b3c) - **docs:** remove long comment [(##2364)](#2364) _(by Gunj Joshi)_
 -   [`3cf2e89`](https://github.com/stdlib-js/stdlib/commit/3cf2e897adf5128f94bd7279e88ca9d42dfe7caa) - **feat:** add C implementation for `math/base/special/coversin` [(##2361)](#2361) _(by Gunj Joshi)_
 -   [`41d41e9`](https://github.com/stdlib-js/stdlib/commit/41d41e959b4eaad3c631e6898e3144a4015a5458) - **test:** include trailing newlines in Julia-generated JSON fixtures _(by Philipp Burckhardt)_
 -   [`9ed7d0e`](https://github.com/stdlib-js/stdlib/commit/9ed7d0e7d57edb5ad0dfb65c944bed87d475cbf3) - **chore:** add missing trailing newlines _(by Philipp Burckhardt)_
