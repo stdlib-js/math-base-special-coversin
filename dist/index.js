@@ -1,5 +1,5 @@
-"use strict";var t=function(e,r){return function(){return r||e((r={exports:{}}).exports,r),r.exports}};var s=t(function(a,i){
-var n=require('@stdlib/math-base-special-sin/dist');function u(e){return 1-n(e)}i.exports=u
-});var c=s();module.exports=c;
+"use strict";var n=function(e,r){return function(){try{return r||e((r={exports:{}}).exports,r),r.exports}catch(t){throw (r=0, t)}};};var s=n(function(v,i){
+var u=require('@stdlib/math-base-special-sin/dist');function c(e){return 1-u(e)}i.exports=c
+});var o=s();module.exports=o;
 /** @license Apache-2.0 */
 //# sourceMappingURL=index.js.map
